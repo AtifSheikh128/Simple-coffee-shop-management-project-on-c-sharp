@@ -1,0 +1,6 @@
+C:\Users\pcw\Desktop\C#\CoffeeShopManagment-CSharp-master\bin\Debug\CoffeeShopManagment.exe
+C:\Users\pcw\Desktop\C#\CoffeeShopManagment-CSharp-master\bin\Debug\CoffeeShopManagment.pdb
+C:\Users\pcw\Desktop\C#\CoffeeShopManagment-CSharp-master\obj\x86\Debug\CoffeeShopManagment.csproj.AssemblyReference.cache
+C:\Users\pcw\Desktop\C#\CoffeeShopManagment-CSharp-master\obj\x86\Debug\CoffeeShopManagment.csproj.CoreCompileInputs.cache
+C:\Users\pcw\Desktop\C#\CoffeeShopManagment-CSharp-master\obj\x86\Debug\CoffeeShopManagment.exe
+C:\Users\pcw\Desktop\C#\CoffeeShopManagment-CSharp-master\obj\x86\Debug\CoffeeShopManagment.pdb
